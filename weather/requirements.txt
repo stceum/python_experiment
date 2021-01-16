@@ -1,0 +1,16 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+idna==2.10
+PyQt5==5.15.2
+pyqt5-plugins==5.15.2.2.0.1
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.2.3
+python-dotenv==0.15.0
+qt5-applications==5.15.2.2.1
+qt5-tools==5.15.2.1.0.1
+requests==2.25.1
+soupsieve==2.1
+urllib3==1.26.2
